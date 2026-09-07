@@ -1,2 +1,4 @@
 # collage-demo
-This is my first git repository / author - Dikshant kulriya
+This is my first git repository 
+<br>
+author - Dikshant kulriya
